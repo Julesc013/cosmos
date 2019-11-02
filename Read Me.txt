@@ -1,12 +1,11 @@
-Cosmos v0.7.1 (Beta)
+Cosmos v0.7.2 (Beta)
 Coded by Jules Carboni
-This version released: 12th September 2017
+This version released: --th September 2017
 
 
 	1. How to Run Cosmos
 
-Double click the program named "Cosmos v0.7.1"
-in the main folder.
+Double click the program named "Cosmos v0.7.2" in the main folder.
 
 
 	2. Basic Overview
@@ -20,19 +19,19 @@ It differs by offering a more pleasing user interface and an enormous library of
 The "Files" folder is where you should put all your files.
 
 The "Applications" folder contains many MS-DOS and Batch applications for use.
-	NOTE: You do not own these applications. Refer to 	their corresponding EULAs for more info.
+	NOTE: You do not own these applications. Refer to their corresponding EULAs for more info.
 
 
 	4. Known Errors
 
-If you CD out of the "Cosmos v0.7.1" folder; cmdmenusel.exe and Sleep.vbs will be unable to launch, resulting in having to close and reboot Cosmos.
+If you CD out of the "Cosmos v0.7.2" folder; cmdmenusel.exe and Sleep.vbs will be unable to launch, resulting in having to close and reboot Cosmos.
 
 
 	5. Extra Information
 
-The program "Cosmos v0.7.1" MUST be in the SAME location as the folder "Cosmos v0.7.1 Data".
+The program "Cosmos v0.7.2" MUST be in the SAME location as the folder "Cosmos v0.7.2 Data".
 
-If you do delete or lose the "Cosmos v0.7.1" file, launch the "start" file in the "Cosmos v0.7.1 Data" folder.
+If you do delete or lose the "Cosmos v0.7.2" file, launch the "start" file in the "Cosmos v0.7.2 Data" folder.
 
 If you intend to copy Cosmos files, COPY THE ENTIRE FOLDER. There are hidden files that are otherwise inaccessible.
 
