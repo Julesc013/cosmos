@@ -1,0 +1,102 @@
+Cosmos Alpha - Update Log
+================================
+
+
+v0.0.12 [03-05-16]
+------------
+= Now add custom variables in Dev Options
+= Menu now displays who's logged on
+* Adjusted layout
+* Fixed Echo Off glitch in Dark Mode
+
+
+v0.0.11 (Welcome Update) [02-05-16]
+------------
+= Coded Creating Accounts and Loging In
+= New option to resize window
+* Fixed MS-DOS boot error (variable check bug)
+* Updated Read Me file
+* Minor changes (text display & boot-error scan)
+* Bug fixes
+
+
+v0.0.10 [20-04-16]
+------------
+= Added Light Mode (inverted colours)
+= Added a variable for Echo On/Off (in dev options)
+= Included MS-DOS boot option.
+* Fixed ">" bug (instead of showing options banner, would create files)
+* Changed boot error message
+* Modified Read Me file
+* Reduced load and boot times
+* EXE compatability for publishing
+
+
+v0.0.9 [14-04-16]
+------------
+= Added Options tab to menu
+= Added Developer Options (allows editing of essential values)
+* Other minor changes
+
+
+v0.0.8 [13-04-16]
+------------
+= Added menu/title screen
+= Added ASCII art logo
+= Added ASCII variable for menu/title screen issues
+* Fixed bug when selecting Cosmos in Nova Loader
+- Removed "OS" variable
+
+
+v0.0.7 [13-04-16]
+------------
+= Added batch mouse driver to files
+= Added a Read Me to the files
+* Replaced standard boot loader with Nova Loader 1.3
+* Changed company name
+* More variables
+
+
+v0.0.6 (Variable Update) [xx-04-16]
+------------
+= Made boot loader its own batch file
+= Added "Start Cosmos" batch (links to boot loader)
+= Put system files in seperate folder
+* Boot Loader now "searches for Kernel in background"
+* Replaced Timeouts with Sleep VBS
+* Changed dates, versions, names etc. to Variables
+- Removed boot loader from Cosmos batch file
+
+
+v0.0.5 [xx-04-16]
+------------
+* Finished loading bars (boot sequence finished)
+* Fixed Sleep VBS watermark error
+
+
+v0.0.4 [xx-04-16]
+------------
+= New version numbers system
+= Added VBScript sleep program
+* Fixed loading "timeout" bug
+
+
+v0.0.3 [xx-04-16]
+------------
+* Began adding loading bars (boot sequence 50% done)
+
+
+v0.0.2 [09-04-16]
+------------
+* Finished boot loader (boot sequence 25% done)
+
+
+v0.0.1 (Big Bang Update) [09-04-16]
+------------
+= Began coding Boot sequence.
+
+
+====================================
+Created by Jules Carboni    (c) 2016
+====================================
+Project began:         9 April, 2016

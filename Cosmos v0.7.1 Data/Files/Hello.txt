@@ -1,0 +1,18 @@
+Hello!,
+
+
+This is a text file (.txt) used to test opening files and editing files.
+
+Did you know you can use the "type" command to display the contents of a document on the screen? 
+It works for .txt files because they have no formatting.
+You can use this command like:
+	"type [(file directory\)file]"
+	Example: type A:\README.TXT
+	Example: type C:\FILES\DOCUMENT\NUL.TXT
+
+
+That's all,
+Jules
+
+
+#13742
