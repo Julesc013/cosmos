@@ -1,0 +1,18 @@
+Nova Loader - Update Log
+================================
+
+
+v1.3.1
+------------
+* Changed "Floppy" to "FloppyDiskette"
+
+
+v1.3
+------------
+= Added boot options to Nova Loader
+* Changed how Boot Loader boots
+
+
+v1.2
+------------
+* Converted Cosmos (0.0.6) Boot Loader into Nova Loader 1.2
